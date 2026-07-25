@@ -1,0 +1,10 @@
+# Frontend Capstone Project
+
+## Tech Stack
+- Framework: React
+- Language: TypeScript  
+- Build Tool: Vite
+
+## Conventions
+- Use functional components
+- Conventional Commits (feat:, fix:, docs:)
